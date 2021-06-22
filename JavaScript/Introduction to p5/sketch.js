@@ -1,3 +1,7 @@
+// Thien Tran Programming Series
+// Episode 3: sketch.js
+// Comment: n/a
+
 function setup() {
   createCanvas(400, 400);
 }

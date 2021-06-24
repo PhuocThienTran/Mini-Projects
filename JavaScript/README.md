@@ -1,4 +1,4 @@
-**The JavaScript projects will feature:** p5 and p5.js projects
+**The JavaScript projects will feature:** Programming with p5 and p5.js
 
 **To run these projects locally:**
 

@@ -1,6 +1,6 @@
 # Mini-Projects:
 
-**A completely brand new YouTube series.** Featuring current in-demand languages and frameworks, i.e.: Python, TypeScript w/ Angular and Node.js, and JavaScript w/ p5.js. There will be different IDEs, i.e.: PyCharm, Visual Studio Code
+**A completely brand new YouTube series.** Featuring current in-demand languages and frameworks, i.e.: Python, Ionic app dev w/ Ionic Angular and Node.js, and JavaScript w/ p5.js. There will be different IDEs, i.e.: PyCharm, Visual Studio Code
 
 ### The process of this YouTube series wouldn't have become a reality if it wasn't for:
 

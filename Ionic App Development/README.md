@@ -1,4 +1,4 @@
-**The TypeScript projects will feature:** App development w/ Angular, node.js, and Ionic 5
+**The Ionic projects will feature:** App development w/ TypeScript, Angular, node.js, and Ionic 5
 
 **To run these projects locally:**
 

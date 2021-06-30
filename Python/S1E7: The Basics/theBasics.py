@@ -1,6 +1,6 @@
 # Thien Tran Programming Series
 # Episode 7: The Python’s Basics
-# Comment: n/a
+# YouTube Link: TBD
 
 # Types of numbers:
 # Natural: 1, 2, 3

@@ -34,7 +34,7 @@ E12: The Be Right Back!
 
 ### Season 2's Episodes:
 
-**To Be Updated: aka ``` "Always workin' hard, I just got it in my genes" - Rich Brian & Guapdad 4000 (Bali) ```**
+**To Be Updated:  aka  ``` "Always workin' hard, I just got it in my genes" - Rich Brian & Guapdad 4000 (Bali) ```**
 
 ------------
 

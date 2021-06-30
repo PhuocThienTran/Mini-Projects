@@ -15,6 +15,29 @@
 | Thuan Tran | Promoter | 
 | [Jomelson Co](https://www.linkedin.com/in/jomelsonco/) | Programming Advisor | 
 
+------------
+
+### Season 1's Episodes:
+
+E1: The Prologue
+
+E2: The Beginnings: VSCode, PyCharm
+| **JavaScript** | **Python** | **Ionic** |
+| -----------| ------ | ----- |
+| E3: The Introductions: p5, p5.js, p5.play | E4: The Introductions: Python 3 | E5: The Introductions: Front-end development stack: TypeScript, Angular, node.js, Ionic |
+| E6: The p5’s Spinning Yin-Yang | E7: The Python’s Basics | E8: The Ionic’s Basics | 
+| E9: The p5’s Lissajous curve | E10: The Python’s Basics II | E11: The Ionic’s Basics II
+
+E12: The Be Right Back!
+
+------------
+
+### Season 2's Episodes:
+
+**To Be Updated: aka ``` "Always workin' hard, I just got it in my genes" - Rich Brian & Guapdad 4000 (Bali) ```**
+
+------------
+
 #### Enjoying this repository? Kindly support me with some spare change, as I'm still a husttling university student!
   <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="40"></a>  
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>

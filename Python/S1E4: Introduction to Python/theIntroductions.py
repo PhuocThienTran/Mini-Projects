@@ -1,5 +1,5 @@
 # Thien Tran Programming Series
 # Episode 4: The Introductions: Python 3
-# Comment: n/a
+# YouTube Link: TBD
   
  print("hello")

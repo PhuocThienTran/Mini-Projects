@@ -18,9 +18,9 @@
 
 ### Season 1's Episodes:
 
-E1: The Prologue
+[E1: The Prologue](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
 
-E2: The Beginnings: VSCode, PyCharm
+[E2: The Beginnings: VSCode, PyCharm](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
 | **JavaScript** | **Python** | **Ionic** |
 | -----------| ------ | ----- |
 | [E3: The Introductions: p5, p5.js, p5.play](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E4: The Introductions: Python 3](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E5: The Introductions: Front-end development stack: TypeScript, Angular, node.js, Ionic](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) |

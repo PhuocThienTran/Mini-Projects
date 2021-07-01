@@ -1,6 +1,6 @@
 // Thien Tran Programming Series
 // Episode 3: The Introductions: p5, p5.js, p5.play
-[YouTube Link: TBD](www.google.com)
+// YouTube Link: TBD
 
 function setup() {
   createCanvas(400, 400);

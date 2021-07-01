@@ -13,7 +13,6 @@
 | [Erik Duong](https://www.linkedin.com/in/minh-tung-duong-a8688a17b/) | Promoter | 
 | [Helen Duong](https://www.linkedin.com/in/ngocduonghelen/) | Promoter | 
 | Thuan Tran | Promoter | 
-| [Jomelson Co](https://www.linkedin.com/in/jomelsonco/) | Programming Advisor | 
 
 ------------
 

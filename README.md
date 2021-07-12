@@ -19,16 +19,20 @@
 
 ### Season 1's Episodes:
 
-[E1: The Prologue](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
+[E1: The Prologue](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) 
+<h6> Upload Date: 25/7/2021 </h6>
 
 [E2: The Beginnings: VSCode, PyCharm](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
+<h6> Upload Date: 1/8/2021 </h6>
+
+
 | **JavaScript** | **Python** | **Ionic** |
 | -----------| ------ | ----- |
-| [E3: The Introductions: p5, p5.js, p5.play](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E4: The Introductions: Python 3](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E5: The Introductions: Front-end development stack: TypeScript, Angular, node.js, Ionic](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) |
-| [E6: The p5’s Spinning Yin-Yang](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E7: The Python’s Basics](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E8: The Ionic’s Basics](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | 
-| [E9: The p5’s Lissajous curve](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E10: The Python’s Basics II](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) | [E11: The Ionic’s Basics II](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
+| [E3: The Introductions: p5, p5.js, p5.play](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 8/8/2021 </h6> | [E4: The Introductions: Python 3](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 15/8/2021 </h6> | [E5: The Introductions: Front-end development stack: TypeScript, Angular, node.js, Ionic](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 22/8/2021 </h6>|
+| [E6: The p5’s Spinning Yin-Yang](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 29/8/2021 </h6> | [E7: The Python’s Basics](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 5/9/2021 </h6> | [E8: The Ionic’s Basics](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 12/9/2021 </h6> | 
+| [E9: The p5’s Lissajous curve](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 19/9/2021 </h6> | [E10: The Python’s Basics II](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 26/9/2021 </h6> | [E11: The Ionic’s Basics II](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 3/10/2021 </h6>
 
-[E12: The Be Right Back!](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw)
+[E12: The Be Right Back!](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: 10/10/2021 </h6>
 
 ------------
 

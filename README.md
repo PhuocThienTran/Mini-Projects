@@ -11,7 +11,6 @@
 | Dithmi Tennakoon | Promoter | 
 | [Erik Duong](https://www.linkedin.com/in/minh-tung-duong-a8688a17b/) | Promoter | 
 | [Helen Duong](https://www.linkedin.com/in/ngocduonghelen/) | Promoter | 
-| Helen Ngo | Promoter |
 | Thuan Tran | Promoter | 
 
 ------------

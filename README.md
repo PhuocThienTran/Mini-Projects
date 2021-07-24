@@ -45,11 +45,3 @@
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>
 
 ###### <p align="center"> Trường Sa và Hoàng Sa là của Việt Nam.</p>
-
-------------
-Remove before publicizing:
-*NOTE: 
-- Provide Github links in every video’s description. Only update the entire Github directory on the day of the upload. When editing the video, crop out the screen recording upper bar - which shows the time and date of recording, and the bottom bar - which shows the different browsers and code editors. 
-- Add new changes from new Ionic YouTube episodes onto the Ionic YouTube folder in the desktop before publishing it onto a new Github folder for that specific episode. 
-- Create new ``` info.txt ``` files on the respective folder for the Ionic video in Github. Where it details about what the folder and project is about - similar to the comments in the .js or .py files in those videos.
-- Before publicizing the entire directory, replace the “YouTube Links:” at the top of the .js or .py files or the .txt files with the YouTube links.

@@ -1,6 +1,6 @@
 // Thien Tran Programming Series
 // Episode 6: The p5’s Spinning Yin-Yang
-// YouTube Link: TBD
+// YouTube Link: https://youtu.be/aU-hAWIBCMY
 
 // Arc
 startAngle = 90;

@@ -11,6 +11,7 @@
 | Dithmi Tennakoon | Promoter | 
 | [Erik Duong](https://www.linkedin.com/in/minh-tung-duong-a8688a17b/) | Promoter (also, [MOV's President](https://www.instagram.com/mov.macquarie/)) | 
 | [Helen Duong](https://www.linkedin.com/in/ngocduonghelen/) | Promoter | 
+| Samadhi | Promoter |
 | Thuan Tran | Promoter | 
 
 ------------

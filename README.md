@@ -7,13 +7,9 @@
 | Name | Role(s) | 
 | --------------- | --------------- |
 | [Ishini Tennakoon](https://www.linkedin.com/in/ishinitennakoon1999/) | [Quick Apps Co-Founder](https://apps.apple.com/au/developer/phuoc-thien-tran/id1489780395), [Project's Graphic Designer, Video Editor](https://www.behance.net/ishinitennakoon), Partner-in-crime. | 
-| Brittney Truong | Promoter | 
-| Dithmi Tennakoon | Promoter | 
 | [Erik Duong](https://www.linkedin.com/in/minh-tung-duong-a8688a17b/) | Promoter (also, [MOV's President](https://www.instagram.com/mov.macquarie/)) | 
 | [Helen Duong](https://www.linkedin.com/in/ngocduonghelen/) | Promoter | 
 | Samadhi | Promoter |
-| Thuan Tran | Promoter | 
-
 ------------
 
 ### Season 1's Episodes:

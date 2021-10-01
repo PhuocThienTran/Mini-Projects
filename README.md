@@ -38,7 +38,7 @@
 ------------
 
 #### Buy me a coffee? ☕️
-  <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="40"></a>  
+  <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="30"></a>  
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>
 
 ###### <p align="center"> Trường Sa và Hoàng Sa là của Việt Nam.</p>

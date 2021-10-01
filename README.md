@@ -37,7 +37,7 @@
 
 ------------
 
-#### Enjoying this repository? Kindly support me with some spare change, as I'm still a husttling university student!
+#### Buy me a coffee? ☕️
   <a href="https://www.paypal.me/thientran2702"><img src="blue.svg" height="40"></a>  
 <p>PayPal is a registered trademark of PayPal, Inc. The PayPal logo is a trademark of PayPal, Inc.</p>
 

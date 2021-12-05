@@ -12,7 +12,8 @@
 | Samadhi | Promoter |
 ------------
 
-### Season 1: Mainly focusing on the basic mehanics of the relevant programming languages, it's syntaxes, sematics, and how to work with them locally via various small programs or products.
+### Season 1: 
+**Mainly focusing on the basic mehanics of the relevant programming languages, it's syntaxes, sematics, and how to work with them locally via various small programs or products.**
 
 [E1: The Prologue](https://youtu.be/Gn6YSzaL6fU) 
 <h6> Upload Date: 25/7/2021 </h6>

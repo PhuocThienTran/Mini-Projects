@@ -1,6 +1,6 @@
 // Thien Tran Programming Series
 // Episode 9: The p5’s Lissajous curve
-// YouTube Link: TBD
+// YouTube Link: https://youtu.be/NDns2auphNU
 
 // x = Asin(at + angle)
 // y = Bsin(bt)

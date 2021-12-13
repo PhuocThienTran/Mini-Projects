@@ -26,9 +26,9 @@
 | -----------| ------ | ----- |
 | [E3: The Introductions: p5, p5.js, p5.play](https://youtu.be/8fpQXuHSjVA) <h6> Upload Date: 8/8/2021 </h6> | [E4: The Introductions: Python 3](https://youtu.be/c5EmctFsSyQ) <h6> Upload Date: 15/8/2021 </h6> | [E5: The Introductions: Front-end development stack: TypeScript, Angular, node.js, Ionic](https://youtu.be/p2NJRsyvqY4) <h6> Upload Date: 22/8/2021 </h6>|
 | [E6: The p5’s Spinning Yin-Yang](https://youtu.be/aU-hAWIBCMY) <h6> Upload Date: 29/8/2021 </h6> | [E7: The Python’s Basics](https://youtu.be/te5XXpsyftE) <h6> Upload Date: 5/9/2021 </h6> | [E8: The Ionic’s Basics](https://youtu.be/bgWmay-6DjM) <h6> Upload Date: 12/9/2021 </h6> | 
-| [E9: The p5’s Lissajous curve](https://youtu.be/NDns2auphNU) <h6> Upload Date: 13/3/2022 </h6> | [E10: The Python’s Basics II](https://youtu.be/YPn9zoBc0RQ) <h6> Upload Date: 20/3/2022 </h6> | [E11: The Ionic’s Basics II](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6>
+| [E9: The p5’s Lissajous curve](https://youtu.be/NDns2auphNU) <h6> Upload Date: 13/3/2022 </h6> | [E10: The Python’s Basics II](https://youtu.be/YPn9zoBc0RQ) <h6> Upload Date: 20/3/2022 </h6> | [E11: The Ionic’s Basics II](https://youtu.be/AcU9eN4suiM) <h6> Upload Date: 27/3/2022 </h6>
 
-[E12: The Be Right Back!](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6>
+[E12: The Be Right Back!](https://youtu.be/VsbnOXFUCgQ) <h6> Upload Date: 3/4/2022 </h6>
 
 ------------
 

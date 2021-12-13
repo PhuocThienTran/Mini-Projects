@@ -1,3 +1,3 @@
 // Thien Tran Programming Series
 // Episode 11: The Ionic’s Basics II
-// YouTube Link: TBD
+// YouTube Link: https://youtu.be/AcU9eN4suiM

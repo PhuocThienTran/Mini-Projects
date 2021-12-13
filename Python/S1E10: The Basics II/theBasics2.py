@@ -1,6 +1,6 @@
 # Thien Tran Programming Series
 # Episode 10: The Python’s Basics II
-# YouTube Link: TBD
+# YouTube Link: https://youtu.be/YPn9zoBc0RQ
 
 # Boolean Value Tables
 # not False -> True

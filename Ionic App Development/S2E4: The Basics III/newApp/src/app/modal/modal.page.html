@@ -1,0 +1,22 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>Modal: </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content padding>
+  <ion-list>
+    <ion-item>
+      <ion-label>Name: </ion-label>
+      <ion-input type="text" [(ngModel)]="name"  clearInput></ion-input>
+    </ion-item>
+    <ion-item>
+      <ion-label>Animal: </ion-label>
+      <ion-input type="text" [(ngModel)]="animal"  clearInput></ion-input>
+    </ion-item>
+  </ion-list>
+        
+</ion-content>
+<ion-footer>
+    <ion-button expand="full" (click) ="closemodal()">Save</ion-button>
+</ion-footer>

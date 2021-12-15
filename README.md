@@ -34,7 +34,18 @@
 
 ### Season 2:
 
-**To Be Updated:  aka  ``` "Always workin' hard, I just got it in my genes" - Rich Brian & Guapdad 4000 (Bali) ```**
+
+[E1: The Midway Point](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) 
+<h6> Upload Date: TBD </h6>
+
+
+| **JavaScript** | **Python** | **Ionic** |
+| -----------| ------ | ----- |
+| [E2: The p5’s Catch a Circle](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E3: The Python’s Basics III](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E4: The Ionic’s Basics III](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6>|
+| | [E5: The Python’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E6: The Ionic’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | 
+| | [E7: The Python’s Basics V](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> |
+
+[E8: The “So What’s Next?”](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> TBD </h6>
 
 ------------
 

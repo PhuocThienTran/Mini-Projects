@@ -1,0 +1,36 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-buttons slot="start">
+      <ion-back-button></ion-back-button>
+    </ion-buttons>
+    <ion-buttons slot="end">
+      <ion-button color="secondary" (click)="addContact()">Add New
+      </ion-button>
+    </ion-buttons>
+    <ion-title>Account</ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-grid>
+    <ion-row>
+        <ion-col class="ion-text-center">
+          <h4>Contacts Lists</h4>
+          <h6>First and Last Name Order:</h6>
+        </ion-col>
+    </ion-row>
+    
+    <ion-list lines="none">
+      <ion-item-sliding *ngFor="let contact of contacts;index as i">
+        <ion-item-options side="end">
+          <ion-item-option color="danger" (click)="delete(i)">Delete</ion-item-option>
+          <ion-item-option  (click)="edit(i)">Edit</ion-item-option>
+        </ion-item-options>
+      <ion-item>
+        {{contact.name}} {{contact.animal}}
+      </ion-item>
+    </ion-item-sliding>
+    </ion-list>
+
+  </ion-grid>
+</ion-content>

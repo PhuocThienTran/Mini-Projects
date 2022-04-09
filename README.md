@@ -35,14 +35,14 @@
 ### Season 2:
 
 
-[E1: The Midway Point](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) 
+[E1: The Midway Point](https://youtu.be/w7un_oO2Kgg) <h6> Upload Date: 10/4/2022 </h6>
 <h6> Upload Date: TBD </h6>
 
 
 | **JavaScript** | **Python** | **Ionic** |
 | -----------| ------ | ----- |
-| [E2: The p5’s Catch a Circle](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E3: The Python’s Basics III](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E4: The Ionic’s Basics III](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6>|
-| | [E5: The Python’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | [E6: The Ionic’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | 
+| [E2: The p5’s Catch a Circle](https://youtu.be/WmrTZ8YA86Y) <h6> Upload Date: 17/4/2022 </h6> | [E3: The Python’s Basics III](https://youtu.be/YR7hLEsb2Ts) <h6> Upload Date: 24/4/2022 </h6> | [E4: The Ionic’s Basics III](https://youtu.be/iIQK6GQShec) <h6> Upload Date: 1/5/2022 </h6>|
+| | [E5: The Python’s Basics IV](https://youtu.be/wmxEurkcc_w) <h6> Upload Date: 8/5/2022 </h6> | [E6: The Ionic’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | 
 | | [E7: The Python’s Basics V](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> |
 
 [E8: The “So What’s Next?”](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> TBD </h6>

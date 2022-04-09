@@ -35,8 +35,6 @@
 
 
 [E1: The Midway Point](https://youtu.be/w7un_oO2Kgg) <h6> Upload Date: 10/4/2022 </h6>
-<h6> Upload Date: TBD </h6>
-
 
 | **JavaScript** | **Python** | **Ionic** |
 | -----------| ------ | ----- |

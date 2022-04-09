@@ -1,6 +1,6 @@
 # Thien Tran Programming Series
 # Season 2 Episode 3: The Python’s Basics III
-# YouTube Link: TBD
+# YouTube Link: https://youtu.be/YR7hLEsb2Ts
 
 # Raw Concept of Loops: To iterate a certain element indefinitely or definitely.
 # Python has 2 main loops: Indefinite (while loop) and Definite (for loop)

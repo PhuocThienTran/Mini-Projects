@@ -1,6 +1,6 @@
 # Thien Tran Programming Series
 # Season 2 Episode 5: The Python’s Basics IV
-# YouTube Link: TBD
+# YouTube Link: https://youtu.be/wmxEurkcc_w
 
 # Types of Errors:
     # Syntax: Problems detected as program is parsed, due to arrangement of symbols

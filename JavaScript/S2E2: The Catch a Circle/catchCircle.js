@@ -1,6 +1,6 @@
 // Thien Tran Programming Series
 // Season 2 Episode 2: The p5's Catch a Circle
-// YouTube Link: TBD
+// YouTube Link: https://youtu.be/WmrTZ8YA86Y
 // Note: Not fully implemented, a challenge for the you to complete 
 // - being stopping the circle from moving, and resuming when the mouse 
 // is no longer on top. 

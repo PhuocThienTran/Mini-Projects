@@ -39,10 +39,10 @@
 | **JavaScript** | **Python** | **Ionic** |
 | -----------| ------ | ----- |
 | [E2: The p5’s Catch a Circle](https://youtu.be/WmrTZ8YA86Y) <h6> Upload Date: 17/4/2022 </h6> | [E3: The Python’s Basics III](https://youtu.be/YR7hLEsb2Ts) <h6> Upload Date: 24/4/2022 </h6> | [E4: The Ionic’s Basics III](https://youtu.be/baKOSJjzpsU) <h6> Upload Date: 1/5/2022 </h6>|
-| | [E5: The Python’s Basics IV](https://youtu.be/wmxEurkcc_w) <h6> Upload Date: 8/5/2022 </h6> | [E6: The Ionic’s Basics IV](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> | 
+| | [E5: The Python’s Basics IV](https://youtu.be/wmxEurkcc_w) <h6> Upload Date: 8/5/2022 </h6> | [E6: The Ionic’s Basics IV](https://youtu.be/zUs2xs3Ji9M) <h6> Upload Date: 15/5/2022 </h6> | 
 | | [E7: The Python’s Basics V](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> Upload Date: TBD </h6> |
 
-[E8: The “So What’s Next?”](https://www.youtube.com/channel/UCjtxLbhA1PRbPvvAwAyNzjw) <h6> TBD </h6>
+[E8: The “So What’s Next?”](https://youtu.be/uUvAnd4LuZc) <h6> 29/5/2022 </h6>
 
 ------------
 

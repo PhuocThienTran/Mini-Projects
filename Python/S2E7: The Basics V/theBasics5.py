@@ -1,6 +1,6 @@
 # Thien Tran Programming Series
 # Season 2 Episode 7: The Python’s Basics V
-# YouTube Link: TBD
+# YouTube Link: https://youtu.be/CJGZpnZdARA
 
 # Python's Basic Data Structures: List, Set, Tuples, and Dictionary
 
